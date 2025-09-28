@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Grades</title>
+</head>
+<body>
+    <h2 align="center">Student Result</h2>
+    <table border="1" cellpadding="5" cellspacing="5" align="center">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Math</th>
+                <th>Science</th>
+                <th>English</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>puneet</td>
+                <td>38</td>
+                <td>29</td>
+                <td>38</td>
+            </tr>
+            <tr>
+                <td>atul kumar</td>
+                <td>24</td>
+                <td>28</td>
+                <td>37</td>
+            </tr>
+            <tr>
+                <td>arun sharma</td>
+                <td>39</td>
+                <td>40</td>
+                <td>39</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Simple Blog</title>
+</head>
+<body>
+
+  <header>
+    <h1>My Simple Blog</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#articles">Articles</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="articles">
+      <article>
+        <h2>First Blog Post</h2>
+        <p>This is the content of the first blog post. It introduces the topic and shares insights.</p>
+      </article>
+
+      <article>
+        <h2>Second Blog Post</h2>
+        <p>This post dives deeper into the subject, offering more examples and analysis.</p>
+      </article>
+
+      <article>
+        <h2>Third Blog Post</h2>
+        <p>Wrapping up the series with final thoughts and a call to action for readers.</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 My Simple Blog. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
